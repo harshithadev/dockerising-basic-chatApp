@@ -7,3 +7,4 @@
 ## Now start the react by yarn start
 ## And the chat application would be running successfully by now.
 updating readme.md
+to do : dockerize this application
